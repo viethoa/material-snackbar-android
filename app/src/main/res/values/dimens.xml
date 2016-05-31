@@ -1,0 +1,8 @@
+<resources>
+    <!-- Material Snack bar custom dimen -->
+    <dimen name="snack_bar_icon_delete_padding">14dp</dimen>
+    <dimen name="snack_bar_text_message_padding_left">16dp</dimen>
+    <dimen name="snack_bar_text_message_padding_right">16dp</dimen>
+    <dimen name="snack_bar_text_message_padding_top">16dp</dimen>
+    <dimen name="snack_bar_text_message_padding_bottom">16dp</dimen>
+</resources>

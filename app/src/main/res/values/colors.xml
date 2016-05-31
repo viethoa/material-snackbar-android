@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Material Snack bar custom color -->
+    <color name="snackBarTextColor">#FFFFFF</color>
+    <color name="snackBarBackgroundColor">#3F51B5</color>
+    <color name="snackBarColorNotificationError">#FFFF4444</color>
+    <color name="snackBarColorNotificationWaring">#FFF5A623</color>
+    <color name="snackBarColorNotificationSuccess">#FF8BC34A</color>
+</resources>
