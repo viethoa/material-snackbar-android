@@ -12,11 +12,11 @@ Feature
 -----
 - Custom Colors: should define on colors.xml.
 
-    <color name="snackBarTextColor">#FFFFFF</color>
-    <color name="snackBarBackgroundColor">#3F51B5</color>
-    <color name="snackBarColorNotificationError">#FFFF4444</color>
-    <color name="snackBarColorNotificationWaring">#FFF5A623</color>
-    <color name="snackBarColorNotificationSuccess">#FF8BC34A</color>
+    `<color name="snackBarTextColor">#FFFFFF</color>` One
+    `<color name="snackBarBackgroundColor">#3F51B5</color>`
+    `<color name="snackBarColorNotificationError">#FFFF4444</color>`
+    `<color name="snackBarColorNotificationWaring">#FFF5A623</color>`
+    `<color name="snackBarColorNotificationSuccess">#FF8BC34A</color>`
 
 - Custom dimen: should define on dimens.xml.<Enter>
     `<dimen name="snack_bar_icon_delete_padding">14dp</dimen>`<Enter>
