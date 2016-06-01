@@ -10,19 +10,20 @@ Version
 
 Feature
 -----
-- Custom Colors: should define on colors.xml.<Enter>
-    `<color name="snackBarTextColor">#FFFFFF</color>`<Enter>
-    `<color name="snackBarBackgroundColor">#3F51B5</color>`<Enter>
-    `<color name="snackBarColorNotificationError">#FFFF4444</color>`<Enter>
-    `<color name="snackBarColorNotificationWaring">#FFF5A623</color>`<Enter>
-    `<color name="snackBarColorNotificationSuccess">#FF8BC34A</color>`
+- Custom Colors: should define on colors.xml.
+
+    <color name="snackBarTextColor">#FFFFFF</color>
+    <color name="snackBarBackgroundColor">#3F51B5</color>
+    <color name="snackBarColorNotificationError">#FFFF4444</color>
+    <color name="snackBarColorNotificationWaring">#FFF5A623</color>
+    <color name="snackBarColorNotificationSuccess">#FF8BC34A</color>
 
 - Custom dimen: should define on dimens.xml.<Enter>
     `<dimen name="snack_bar_icon_delete_padding">14dp</dimen>`<Enter>
     `<dimen name="snack_bar_text_message_padding_left">16dp</dimen>`<Enter>
     `<dimen name="snack_bar_text_message_padding_right">16dp</dimen>`<Enter>
     `<dimen name="snack_bar_text_message_padding_top">16dp</dimen>`<Enter>
-    `<dimen name="snack_bar_text_message_padding_bottom">16dp</dimen>`<Enter> 
+    `<dimen name="snack_bar_text_message_padding_bottom">16dp</dimen>`
 
 ![](https://github.com/viethoa/image-repositories/blob/master/material-snack-bar.gif "Fast scroller alphabet")
 
