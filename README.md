@@ -11,11 +11,11 @@ Version
 Feature
 -----
 - Custom Colors: should define on colors.xml
-    <color name="snackBarTextColor">#FFFFFF</color>
-    <color name="snackBarBackgroundColor">#3F51B5</color>
-    <color name="snackBarColorNotificationError">#FFFF4444</color>
-    <color name="snackBarColorNotificationWaring">#FFF5A623</color>
-    <color name="snackBarColorNotificationSuccess">#FF8BC34A</color>
+    ![<color name="snackBarTextColor">#FFFFFF</color>]
+    ![<color name="snackBarBackgroundColor">#3F51B5</color>]
+    ![<color name="snackBarColorNotificationError">#FFFF4444</color>]
+    ![<color name="snackBarColorNotificationWaring">#FFF5A623</color>]
+    ![<color name="snackBarColorNotificationSuccess">#FF8BC34A</color>]
 
 - Custom dimen: should define on dimens.xml
     <dimen name="snack_bar_icon_delete_padding">14dp</dimen>
@@ -54,7 +54,7 @@ How to use
     bottomSnackBarMessage.showSuccessMessage(messageRes);
     bottomSnackBarMessage.showSuccessMessageCloseable(messageRes);
 
-Note: Should see download and see my setup in demo.
+Note: Should download and see my setup in demo.
 
 License
 -------
