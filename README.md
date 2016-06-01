@@ -6,7 +6,7 @@ Support Sdk Version 14 to latest.
 
 Version
 -----
-- 1.0.0: include TopSnackBar and BottomSnackBar message.
+- 1.0.0: Just TopSnackBar and BottomSnackBar message (Beta), custom view will release in next time.
 
 Feature
 -----
