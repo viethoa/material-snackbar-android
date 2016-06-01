@@ -12,7 +12,7 @@ Feature
 -----
 - Custom Colors: should define on colors.xml.
 
-    `<color name="snackBarTextColor">#FFFFFF</color>` \n
+    `<color name="snackBarTextColor">#FFFFFF</color>` /n
     `<color name="snackBarBackgroundColor">#3F51B5</color>` \n
     `<color name="snackBarColorNotificationError">#FFFF4444</color>` \n
     `<color name="snackBarColorNotificationWaring">#FFF5A623</color>` \n
